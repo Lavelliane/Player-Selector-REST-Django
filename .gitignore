@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+
+# PyCharm
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Temporary database for testing
+*.sqlite3
+
+# SonarQube
+.scannerwork/
